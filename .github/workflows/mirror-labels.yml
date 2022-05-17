@@ -9,7 +9,7 @@ jobs:
   mirror-labels:
     runs-on: ubuntu-latest
     env:
-      BOT_TOKEN: ${{ secrets.BOT_TOKEN }}
+      BOT_TOKEN: ${{ secrets.ACTIONS_TOKEN }}
     name: mirror-labels
     steps:
       - uses: actions/checkout@v2
