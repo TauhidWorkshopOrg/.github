@@ -11,4 +11,4 @@
 🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
 -->
 
-🙋‍♀️ GitHub Constellation 2022
+🙋‍♀️ Here are all the repositories for the workshops in GitHub Constellation 2022
