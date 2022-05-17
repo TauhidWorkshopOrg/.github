@@ -1,18 +1,8 @@
 LABEL_GROUPS:
-  DEFAULT:
+  CUSTOM:
     bug:
       description: Something isn't working
       color: d73a4a
-    enhancement:
-      description: New feature or request
-      color: a2eeef
-    good first issue:
-      description: Good for newcomers
-      color: a8f475
-    wontfix:
-      description: This will not be worked on
-      color: ffffff
-  CUSTOM:
     debt:
       description: Issues to deal with later
       color: 0c0c75
@@ -22,9 +12,15 @@ LABEL_GROUPS:
     duplicate:
       description: This issue or pull request already exists
       color: cfd3d7
+    enhancement:
+      description: New feature or request
+      color: a2eeef
     expertise needed:
       description: This needs special attention from an area specialist.
       color: f9928e
+    good first issue:
+      description: Good for newcomers
+      color: a8f475
     help wanted:
       description: Extra attention is needed
       color: '008672'
@@ -40,6 +36,24 @@ LABEL_GROUPS:
     security:
       description: Issues that have security implications
       color: ff0000
+    wontfix:
+      description: This will not be worked on
+      color: ffffff
+    feature:
+      description: Issues which track a feature
+      color: 2EB76C
+    design:
+      description: Issues which track design work of a feature
+      color: 694E7C
+    implement:
+      description: Issues which track design work of a feature
+      color: A4135B
+    security:
+      description: Issues which track design work of a feature
+      color: 377BA2
+    test:
+      description: Issues which track design work of a feature
+      color: 4A2A4F
   infrastructure:
     infrastructure:
       description: Improvements or additions to project infrastructure
