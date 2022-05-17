@@ -1,5 +1,5 @@
 LABEL_GROUPS:
-  DEFAULT:
+  CUSTOM:
     bug:
       description: Something isn't working
       color: d73a4a
@@ -47,7 +47,8 @@ LABEL_GROUPS:
       description: Issues for automation actions
       color: fbca04
 REPOS:
-  pull-request-responsibility:
-    - infrastructure
-  manage-your-labels:
+  e2e-action-workflows:
+    - CUSTOM
+  e2e-test-suite:
+    - CUSTOM
     - infrastructure
