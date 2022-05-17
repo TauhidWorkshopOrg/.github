@@ -1,8 +1,9 @@
 LABEL_GROUPS:
-  CUSTOM:
+  DEFAULT:
     bug:
       description: Something isn't working
       color: d73a4a
+  CUSTOM:
     debt:
       description: Issues to deal with later
       color: 0c0c75
